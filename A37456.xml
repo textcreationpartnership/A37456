@@ -1,0 +1,183 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Certain assayes propounded to the consideration of the honourable committee for regulating the proceedings at law. Whereby it is made evident that most cases now determined in Chancery and other courts of equity, may be reduced to tryall at law. To the great ease and benefit of the Commonwealth.</title>
+            <author>S. D.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1652</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A37456</idno>
+            <idno type="STC">Wing D85B</idno>
+            <idno type="STC">ESTC R213504</idno>
+            <idno type="EEBO-CITATION">99825872</idno>
+            <idno type="PROQUEST">99825872</idno>
+            <idno type="VID">30263</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A37456)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 30263)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1758:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Certain assayes propounded to the consideration of the honourable committee for regulating the proceedings at law. Whereby it is made evident that most cases now determined in Chancery and other courts of equity, may be reduced to tryall at law. To the great ease and benefit of the Commonwealth.</title>
+                  <author>S. D.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Thomas Creake,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1652.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed on p. 2 and at end: S.D.</note>
+                  <note>Reproduction of the original in the Henry E. Huntington Library and Art Gallery.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Courts --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-04</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <p>
+               <pb facs="tcp:30263:1" rendition="simple:additions"/>
+CERTAINE ASSAYES Propounded to the conſideration of the Honourable COMMITTEE for regulating the proceedings at Law.</p>
+            <p>Whereby it is made evident that moſt Caſes now determined in <hi>Chancery</hi> and other <hi>Courts of Equity,</hi> may be reduced to Tryall at <hi>Law.</hi>
+            </p>
+            <p>To the great eaſe and benefit of the COMMONWEALTH.</p>
+            <figure>
+               <figDesc>printer's or publisher's device</figDesc>
+            </figure>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Thomas Creake.</hi> 1652.</p>
+            <pb facs="tcp:30263:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb n="1" facs="tcp:30263:2" rendition="simple:additions"/>
+            <head>TO THE RIGHT HONOURABLE the COMMITTEE appointed for the regulating proceedings at LAW.</head>
+            <opener>
+               <salute>May it pleaſe your Honours,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>Aking to conſideration the great delay and charge that continu<g ref="char:EOLhyphen"/>ally happens to the Clyent by prolix and coſtly ſuits in Equi<g ref="char:EOLhyphen"/>ty, and conſidering the flouri<g ref="char:EOLhyphen"/>ſhing condition of the Common Law, even in the Swording times of the three firſt <hi>Edwards,</hi> and for ſome good ſpace after, when few, or rather no ſuits were determined in an equi<g ref="char:EOLhyphen"/>table courſe: and finding the inconveniency of them at this day, which no man can wonder at, when the Lord chiefe Iuſtice <hi>Fairfax</hi> in their infancy com<g ref="char:EOLhyphen"/>plained <note place="margin">21 <hi>E.</hi> 4. 232.</note> againſt them, and the pleaders or Counſel<g ref="char:EOLhyphen"/>lers
+<pb n="2" facs="tcp:30263:3"/>
+that promoted them, the ſame having been more proper for actions of the Caſe at Law. And alſo obſerving the great care former Parliaments have uſed to reduce cauſes from Equity to Law, as appeares by the Act of 27. <hi>H.</hi> 8. of transferring uſes, 13 <hi>Eliz.</hi> for ſuppreſſing frauds, and divers others; and having formerly publiſhed ſome Pro<g ref="char:EOLhyphen"/>poſals in order to regulating the proceedings at Law, many of which you have been pleaſed to take into conſideration, hath made me to adventure upon your clemencies this once more, by ſubmitting theſe ſecond conſiderations to your judgements, aſſu<g ref="char:EOLhyphen"/>ring my ſelfe that by your patronage and favouring the ſame with your eye and labours, ſomething may thereby be produced to the benefit of the Common<g ref="char:EOLhyphen"/>wealth, and the Common Law cleared of many aſperſions (by the ignorant) caſt upon it, by reaſon of the delato<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y and coſtly proceedings in all Courts of Equity. Which is the greateſt of the ambition of him that herein is</p>
+            <closer>
+               <signed>Your moſt humble ſervant and welwiſher, S. D.</signed>
+            </closer>
+         </div>
+         <div type="proposals">
+            <pb n="3" facs="tcp:30263:3" rendition="simple:additions"/>
+            <head>The Aſſayes follow:</head>
+            <p n="1">1. FIrſt it is propounded that all Coppyholds be made Freehold, and Commiſſioners may be aſ<g ref="char:EOLhyphen"/>ſigned into all Counties, with rules for the ſetting down rates between Lord and Tenant; and that all Lands, &amp;c. may be deviſable and deſcendable at Common Law.</p>
+            <p n="2">2. That the execution and perfecting of all Con<g ref="char:EOLhyphen"/>tracts and agreements for Lands, &amp;c. may be com<g ref="char:EOLhyphen"/>pelled at Common Law upon Action of the Caſe as now in Chancery, with dammage onely to be taxed for the delay; and that all mean Eſtates and privyes may be bound that are either parties to the ſuit or the judgement by <hi>Scire facias.</hi>
+            </p>
+            <p n="3">3. That uſes and truſts be transferred of Leaſes for years, debts, goods, &amp;c. as it is now of Freeholds by 27 <hi>H.</hi> 8. with ſome proviſion that the Leſſees eſtate may not merge in the Freehold to the preju<g ref="char:EOLhyphen"/>dice of the partie.</p>
+            <p n="4">4. That Legacies may be ſued for, Morgagers and obligers relieved againſt forfeitures, and Tythes re<g ref="char:EOLhyphen"/>coverable at and by the Common Law as formerly propoſed.</p>
+            <p n="5">5. That ſuch proofe of Deeds, &amp;c. wanting, loſt &amp;c. may be allowed at law, as is now in equity.</p>
+            <p n="6">6. That ſpeciall actions of the caſe may be brought at Law in all equitable caſes, according to the Lord <hi>Fairfax</hi> his advice in the 21 <hi>H.</hi> 4. 23.</p>
+            <p n="7">7. That the ſtates of Joyntments, &amp;c. may not ſurvive, and they and coexecutors may have ſpe<g ref="char:EOLhyphen"/>ciall
+<pb n="4" facs="tcp:30263:4"/>
+actions of the caſe againſt each other for all E<g ref="char:EOLhyphen"/>quitable injuries.</p>
+            <p n="8">8. That imperfect and deficient conveyances made upon valuable and good conſideration may be allowed at Law according to the intent of the parties expreſſed or proved, and that an action of the caſe may lie againſt the partie and his heires, &amp;c. to compell them to make good the ſame.</p>
+            <p n="9">9. That Joint-ſureties may have actions of the Caſe againſt each other for contribution, and againſt the principall in the nature of a Writ <hi>de plegiis acqui<g ref="char:EOLhyphen"/>etandis</hi> to be diſcharged from engagements.</p>
+            <p n="10">10. That <hi>non compos mentis</hi> may have the plea in his own perſon.</p>
+            <p n="11">11. That waſt and remedy for Rent may be had by the Purchaſer againſt the Tenant, after notice; and the Reverſion paſſe as well without as with at<g ref="char:EOLhyphen"/>tornment, in all caſes.</p>
+            <p n="12">12. That union of poſſeſſion within memory, and above 60 yeeres, may not prevaile againſt uſage by all the time of preſent memory, but that preſcrip<g ref="char:EOLhyphen"/>tion therein may be allowed.</p>
+            <p n="13">13. That where deeds, &amp;c. belong to two or more, and are kept by one in truſt for the reſt, and not pro<g ref="char:EOLhyphen"/>duced upon reaſonable requeſt, upon trials, &amp;c. (charges being tendred) for the defence of the com<g ref="char:EOLhyphen"/>mon title, that an action of the caſe may lie to re<g ref="char:EOLhyphen"/>cover the deeds and dammage.</p>
+            <p n="14">14. That detinue may lie for deeds, &amp;c. though the date be not known, and that like Action may lie for the truſtor againſt the truſtee; for deeds, &amp;c. and that the releaſe or diſcharge of the truſtee without
+<pb n="5" facs="tcp:30263:4" rendition="simple:additions"/>
+conſent of the truſtor may not be valid, where either the truſt is expreſſed or known.</p>
+            <p n="15">15. That aſſignes of Statutes, Judgements, Recog<g ref="char:EOLhyphen"/>nizances, Bonds, Bils, Debts, &amp;c. made for valuable conſideration, and not for maintenance may ſue the ſame in their own names, and diſcharge them at pleaſure; and that the releaſe or diſcharge of the aſſignor after notice ſhall not be valid; and that if the aſſignor notwithſtanding ſuch notice ſhall ſue, &amp;c. garniſhment ſhall lie, and interpleading, as is now uſed in detinue, &amp;c.</p>
+            <p n="16">16. That upon bils of diſcovery the Plantiffe may proceed no further then to Bill and Anſwer, and to examine the defendant upon Interrogatories, if the Caſe or partie deſire it, and then the Anſwers to be uſed at Common-law.</p>
+            <p n="17">17. That Depoſitions of witneſſes in perpetuall memory may preſently be publiſhed and uſed upon Trials for the eaſe of the Clyent, where the witneſ<g ref="char:EOLhyphen"/>ſes be ſick, impotent, far diſtant, or doe not appeare upon due ſervice, or for other reaſonable cauſe.</p>
+            <p n="18">18. That Coſts and Damages may be given to the parties, where they are ſtaid by Injunction, for delay or upon unjuſt or untrue ſurmiſes, as was anciently; as appeares by 21 <hi>E.</hi> 4. 74. and the ſame to be aſcer<g ref="char:EOLhyphen"/>tained by the oath of the party, or other competent witneſſes.</p>
+            <p n="19">19. That Fee-farmes, Heriots, &amp;c. may be good in Law, as they were before the Statute of <hi>quia emptores terrarum,</hi> and are at this day decreed in equity.</p>
+            <p n="20">20. That in caſe any Court of Equity ſhall pro<g ref="char:EOLhyphen"/>ceed in any cauſe wherein there is or ſhall be proper
+<pb n="6" facs="tcp:30263:5" rendition="simple:additions"/>
+remedy at Law, that then the Courts of Law m<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y prohibit them as anciently, and that the partie upon the prohibition may recover Coſts and dammage for the vexation.</p>
+            <p>Laſtly, becauſe the Propoſer of theſe Aſſayes knoweth his own weakneſſe and unworthineſſe to propoſe any thing of this kinde; and knowing how apt humane nature is to erre, and to tranſcend its due bounds; and theſe his Aſſayes being the firſt of this nature that hath been propoſed, and being willing to offer his mite at the After of ſo worthy a worke, humbly and heartily deſires the Reader, that if he finde any thing herein that he conceives may be inconvenient, that he will then either in private or publique make his Animadverſions, with his rea<g ref="char:EOLhyphen"/>ſons; or if he ſhall think fit to adde, or propound any more rationally, as it will be a very acceptible worke to the Commonwealth, ſo it ſhall thankfully and heartily be ſubſcribed to by his very humble ſervant,</p>
+            <closer>
+               <signed>S. D.</signed>
+            </closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
